@@ -7,8 +7,7 @@ Chronoscraft adalah komunitas Minecraft berbasis grup di platform chatting onlin
 ## Github Statistic
 <p align="center">
   <a href="https://github.com/AhZanMC">
-    <img src="https://img.shields.io/github/stars/your-organization?style=social"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Chronoscraft&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+    <img src="https://img.shields.io/github/stars/Chronoscraft?style=social"/>
   </a>
 </p>
 
